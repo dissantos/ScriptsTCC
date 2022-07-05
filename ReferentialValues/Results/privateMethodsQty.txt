@@ -1,0 +1,4 @@
+Average: 0.5649178612361511
+Standard deviation: 3.5701868514023576
+Percentile 70: 0.0
+Percentile 90: 1.0
