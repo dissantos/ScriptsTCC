@@ -1,0 +1,23 @@
+Metrica;Bom/Frequente;Regular/Ocasional;Ruim/Raro
+abstractMethodsQty;<= 3;3 < abstractMethodsQty <= 6;> 6
+anonymousClassesQty;<= 2;2 < anonymousClassesQty <= 5;> 5
+comparisonsQty;<= 5;5 < comparisonsQty <= 13;> 13
+defaultFieldsQty;<= 3;3 < defaultFieldsQty <= 5;> 5
+defaultMethodsQty;<= 2;2 < defaultMethodsQty <= 6;> 6
+finalMethodsQty;<= 3;3 < finalMethodsQty <= 7;> 7
+innerClassesQty;<= 2;2 < innerClassesQty <= 4;> 4
+lambdasQty;<= 3;3 < lambdasQty <= 8;> 8
+logStatementsQty;<= 4;4 < logStatementsQty <= 9;> 9
+loopQty;<= 3;3 < loopQty <= 8;> 8
+mathOperationsQty;<= 4;4 < mathOperationsQty <= 11;> 11
+noc;<= 4;4 < noc <= 9;> 9
+parenthesizedExpsQty;<= 3;3 < parenthesizedExpsQty <= 8;> 8
+privateMethodsQty;<= 3;3 < privateMethodsQty <= 6;> 6
+protectedFieldsQty;<= 3;3 < protectedFieldsQty <= 7;> 7
+protectedMethodsQty;<= 2;2 < protectedMethodsQty <= 5;> 5
+publicFieldsQty;<= 2;2 < publicFieldsQty <= 7;> 7
+staticFieldsQty;<= 2;2 < staticFieldsQty <= 6;> 6
+staticMethodsQty;<= 2;2 < staticMethodsQty <= 6;> 6
+synchronizedFieldsQty;<= 0;0 < synchronizedFieldsQty <= 0;> 0
+synchronizedMethodsQty;<= 3;3 < synchronizedMethodsQty <= 6;> 6
+tryCatchQty;<= 2;2 < tryCatchQty <= 6;> 6
